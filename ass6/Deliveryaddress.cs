@@ -8,7 +8,7 @@ namespace ass6
 {
     internal struct Delivaryaddress
     {
-       
+      
             public string city;
             public string street;
             public int buildingnumber;
