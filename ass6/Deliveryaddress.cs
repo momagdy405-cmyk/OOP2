@@ -12,7 +12,6 @@ namespace ass6
             public string city;
             public string street;
             public int buildingnumber;
-
             public Delivaryaddress(string city, string street, int buildingnumber)
             {
                 this.city = city;
